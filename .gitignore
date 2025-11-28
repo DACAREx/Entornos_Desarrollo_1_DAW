@@ -5,3 +5,5 @@
 *.css
 #Ignora todos los archivos JS
 *.js
+#Ignora todos los archivos de imagen PNG
+*.png
