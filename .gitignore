@@ -1,3 +1,5 @@
 #Esto es un archivo .gitignore
 #Que ignora todos los archivos HTML
 *.html
+#Ignora todos los archivos CSS
+*.css
