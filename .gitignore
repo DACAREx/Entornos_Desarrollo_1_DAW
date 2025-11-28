@@ -3,3 +3,5 @@
 *.html
 #Ignora todos los archivos CSS
 *.css
+#Ignora todos los archivos JS
+*.js
