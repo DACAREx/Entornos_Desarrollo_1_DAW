@@ -7,3 +7,5 @@
 *.js
 #Ignora todos los archivos de imagen PNG
 *.png
+#Ignorar prueba5.dll
+*prueba5.dll
